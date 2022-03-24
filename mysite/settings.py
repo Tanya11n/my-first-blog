@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-s*8tk4=3v3ab8jx2348ogp^15eku1jdff6o((@jsku0dz$%cyz
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['tanya11n.pythonanywhere.com','127.0.0.1', 'imct-pyedu', 'localhost']
+ALLOWED_HOSTS = ['tanya11n.pythonanywhere.com', '127.0.0.1', 'imct-pyedu', 'localhost']
 
 
 # Application definition
